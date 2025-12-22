@@ -10,6 +10,7 @@
 
 ### 🚀 Projects
 - [Car Racing Game (C)](https://github.com/AYESHAAMIR01/Car-Racing-Game)
+- [AlgoVisualizer (C++)](https://github.com/AYESHAAMIR01/Algo-Visualizer)
 
 ### 🏆 Competitive Programming
 - Solved **190+ problems** on [LeetCode](https://leetcode.com/u/ayeshaamir98/)

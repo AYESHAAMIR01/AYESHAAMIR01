@@ -14,6 +14,6 @@
 - [AlgoVisualizer (C++)](https://github.com/AYESHAAMIR01/Algo-Visualizer)
 
 ### 🏆 Competitive Programming
-- Solved **190+ problems** on [LeetCode](https://leetcode.com/u/ayeshaamir98/)
+- Solved **200+ problems** on [LeetCode](https://leetcode.com/u/ayeshaamir98/)
 
 > “Code. Debug. Learn. Repeat.”

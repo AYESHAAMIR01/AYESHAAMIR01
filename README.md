@@ -6,7 +6,8 @@
 ### 🧠 Currently Learning
 - Data Structures & Algorithms (C++)
 - Git & GitHub
-- Software Design & Databases (up next)
+- Databases
+- Software Design(up next)
 
 ### 🚀 Projects
 - [Car Racing Game (C)](https://github.com/AYESHAAMIR01/Car-Racing-Game)

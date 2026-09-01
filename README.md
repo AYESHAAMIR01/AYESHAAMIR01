@@ -1,29 +1,17 @@
 # 👋 Hi, I'm Ayesha Amir
 
 🎓 Computer Science Undergraduate at NED University of Engineering & Technology
+💻 Aspiring Software Engineer interested in **Software Development, Databases, Data Structures & Algorithms, and Competitive Programming**
 
-💻 Aspiring Software Engineer with interests in **Software Development, Databases, Data Structures & Algorithms, and Competitive Programming**.
-
-I enjoy building projects that combine strong software engineering principles with practical problem-solving, from algorithm visualizations to full-stack applications.
+I enjoy building projects that combine solid software engineering principles with practical problem-solving — from algorithm visualizations to full-stack applications.
 
 ---
 
 ## 🚀 Technical Skills
 
-### Languages
+**Languages:** C · C++ · Python · SQL
 
-* C
-* C++
-* Python
-* SQL
-
-### Technologies & Tools
-
-* PostgreSQL
-* Socket.IO
-* Git & GitHub
-* Qt Framework
-* MySQL
+**Technologies & Tools:** PostgreSQL · MySQL · Socket.IO · Qt Framework · Git & GitHub
 
 ---
 
@@ -37,52 +25,40 @@ I enjoy building projects that combine strong software engineering principles wi
 
 ## 🛠 Featured Projects
 
-### 💬 ConvoCore
-
+### 💬 [ConvoCore](https://github.com/AYESHAAMIR01/ConvoCore)
 A WhatsApp-inspired real-time chat application built with React, Node.js, Socket.IO, and PostgreSQL.
 
 **Highlights:**
-
-* Real-time messaging
-* JWT authentication
-* Group chats & reactions
-* BCNF-normalized database design
-* Constraints, triggers, and SQL views
-
-🔗 Repository: https://github.com/AYESHAAMIR01/ConvoCore
+* Real-time messaging with group chats & reactions
+* JWT-based authentication
+* BCNF-normalized database design with constraints, triggers, and SQL views
 
 ---
 
-### 🚗 Car Racing Game
+### 📊 [AlgoVisualizer](https://github.com/AYESHAAMIR01/Algo-Visualizer)
+A C++ / Qt application for visualizing common algorithms and understanding their execution step-by-step, covering stack, queue, and tree data structures.
 
+---
+
+### 🚗 [Car Racing Game](https://github.com/AYESHAAMIR01/Car-Racing-Game)
 A 2D car racing game developed in C using graphics libraries.
-
-🔗 Repository: https://github.com/AYESHAAMIR01/Car-Racing-Game
-
----
-
-### 📊 AlgoVisualizer
-
-A C++ application for visualizing common algorithms and understanding their execution step-by-step.
-
-🔗 Repository: https://github.com/AYESHAAMIR01/Algo-Visualizer
 
 ---
 
 ## 🏆 Competitive Programming
 
 * Solved **200+ problems** on LeetCode
-* Regularly practice DSA and problem-solving
-* Interested in programming contests and algorithmic thinking
+* Regular practice in DSA and algorithmic problem-solving
+* Active interest in programming contests and competitive coding
 
-🔗 LeetCode: https://leetcode.com/u/ayeshaamir98/
+🔗 LeetCode: [leetcode.com/u/ayeshaamir98](https://leetcode.com/u/ayeshaamir98/)
 
 ---
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/AYESHAAMIR01
-* LinkedIn: https://www.linkedin.com/in/ayesha-amir-a9d8b2/
+[![GitHub](https://img.shields.io/badge/GitHub-AYESHAAMIR01-181717?style=flat&logo=github)](https://github.com/AYESHAAMIR01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayesha%20Amir-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ayesha-amir-a9d8b2/)
 
 ---
 

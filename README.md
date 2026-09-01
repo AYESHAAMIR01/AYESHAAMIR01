@@ -25,6 +25,16 @@ I enjoy building projects that combine solid software engineering principles wit
 
 ## 🛠 Featured Projects
 
+### 🧪 [AI Tool Evaluation — E-Commerce Customer Support](https://github.com/AYESHAAMIR01/ai-tool-evaluation)
+An independent comparative evaluation of ChatGPT, Claude, and Gemini on realistic e-commerce customer support scenarios, scored against a structured 5-criterion rubric (Accuracy, Tone, Clarity, Consistency, Cost).
+
+**Highlights:**
+* 6 test scenarios covering returns, refunds, tracking, and de-escalation
+* Scoring rubric with per-scenario and overall averages
+* Written report with findings and a deployment recommendation
+
+---
+
 ### 💬 [ConvoCore](https://github.com/AYESHAAMIR01/ConvoCore)
 A WhatsApp-inspired real-time chat application built with React, Node.js, Socket.IO, and PostgreSQL.
 

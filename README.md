@@ -50,7 +50,7 @@ A C++ / Qt application for visualizing common algorithms and understanding their
 
 ---
 
-###📁 [Smart File Organizer](https://github.com/AYESHAAMIR01/smart-file-organizer)
+### 📁 [Smart File Organizer](https://github.com/AYESHAAMIR01/smart-file-organizer)
 
 A simple command-line Python script that automatically organizes files into categorized subfolders based on their file type or extension.
 

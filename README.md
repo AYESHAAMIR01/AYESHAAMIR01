@@ -50,6 +50,19 @@ A C++ / Qt application for visualizing common algorithms and understanding their
 
 ---
 
+###📁 [Smart File Organizer](https://github.com/AYESHAAMIR01/smart-file-organizer)
+
+A simple command-line Python script that automatically organizes files into categorized subfolders based on their file type or extension.
+
+**Highlights:**:
+* Organizes files into Images, Documents, Videos, Audio, Archives, Code, and Others
+* Automatically creates category folders when needed
+* Safely handles duplicate filenames without overwriting existing files
+Provides a summary of scanned, moved, and skipped files
+Uses only Python's standard library (pathlib and shutil)
+
+---
+
 ### 🚗 [Car Racing Game](https://github.com/AYESHAAMIR01/Car-Racing-Game)
 A 2D car racing game developed in C using graphics libraries.
 

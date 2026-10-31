@@ -23,7 +23,7 @@ I enjoy building projects that combine solid software engineering principles wit
 
 * System Design Fundamentals
 * Software Design Patterns
-* Full-Stack Development
+* Machine Learning
 
 ---
 

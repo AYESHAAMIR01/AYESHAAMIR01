@@ -9,9 +9,13 @@ I enjoy building projects that combine solid software engineering principles wit
 
 ## 🚀 Technical Skills
 
-**Languages:** C · C++ · Python · SQL
+**Languages:** C · C++ · Python · SQL · JavaScript
 
-**Technologies & Tools:** PostgreSQL · MySQL · Socket.IO · Qt Framework · Git & GitHub
+**Frameworks & Libraries:** React · Node.js · Socket.IO · Qt Framework
+
+**Data Science & ML:** Pandas · NumPy · scikit-learn
+
+**Databases & Tools:** PostgreSQL · MySQL · Git & GitHub
 
 ---
 
@@ -23,7 +27,7 @@ I enjoy building projects that combine solid software engineering principles wit
 
 ---
 
-## 🛠 Featured Projects
+## 🛠️ Featured Projects
 
 ### 🧪 [AI Tool Evaluation — E-Commerce Customer Support](https://github.com/AYESHAAMIR01/ai-tool-evaluation)
 An independent comparative evaluation of ChatGPT, Claude, and Gemini on realistic e-commerce customer support scenarios, scored against a structured 5-criterion rubric (Accuracy, Tone, Clarity, Consistency, Cost).
@@ -51,15 +55,14 @@ A C++ / Qt application for visualizing common algorithms and understanding their
 ---
 
 ### 📁 [Smart File Organizer](https://github.com/AYESHAAMIR01/smart-file-organizer)
-
 A simple command-line Python script that automatically organizes files into categorized subfolders based on their file type or extension.
 
-**Highlights:**:
+**Highlights:**
 * Organizes files into Images, Documents, Videos, Audio, Archives, Code, and Others
 * Automatically creates category folders when needed
 * Safely handles duplicate filenames without overwriting existing files
-Provides a summary of scanned, moved, and skipped files
-Uses only Python's standard library (pathlib and shutil)
+* Provides a summary of scanned, moved, and skipped files
+* Uses only Python's standard library (`pathlib` and `shutil`)
 
 ---
 
